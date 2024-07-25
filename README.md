@@ -15,12 +15,11 @@ Use groupby operations to calculate total sales for products sold by retailers, 
 Filter data for women's athletic footwear sales and analyze total units sold and total sales by retailer, region, state, and city.
 Create pivot tables to summarize sales data by invoice date and identify key trends.
 Key Takeaways
+Review the output to identify key insights and trends.
 Retailer with the most sales.
 Regions, states, and cities with the highest sales.
 Analysis of women's athletic footwear sales and top-selling locations.
 Day with the most women's athletic footwear sales.
-Running the Script
-Ensure you have the necessary Python libraries installed.
-Run the provided Python script to load and analyze the sales data.
+
 Review the output to identify key insights and trends.
 
